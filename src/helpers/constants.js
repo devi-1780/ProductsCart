@@ -1,0 +1,3 @@
+export const BANNER_IMG="https://s3-alpha-sig.figma.com/img/e8fe/1440/dabb327ce88f9fcc7f707d7d08943724?Expires=1743379200&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=LxNpU5xFK8AzzuKba6H9su6J4TTxdyxE~5RxpRvmQ~z840crahi2iDSSXA8HoxdlBMsOrK6Dt507aezFPxrSeoosnj0n7zub575PdAc-Q96caA0EBD9LNUYSjTG8JX4zTSiK7uIaiUFXxsqiQP5AaEKvSxu0WV4ZsKTIZQoJ0GvSiIeJYDXOyUkmBlOXCBG6NKRFOx1t82NVY5Xywg9~mu3dgIAmVh8bNlaWnYCiL~~GIXLIMQ2Rsz20RM34b5zSA4ug~TgixdnQk2j7qxUMAt6aTXEeHTbtOIY4bg1zVOSzh1BBtENTv8dM2RZ4vm0e8eZlWINtmZtBXbdOM1dw-A__";
+
+export const PRODUCTS_API="https://fakestoreapi.com/products";
